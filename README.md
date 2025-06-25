@@ -1,2 +1,2 @@
 # image-generator
-Generates an altered image given some additional information.
+Generates an altered image given some additional information. (WIP)
